@@ -1,0 +1,82 @@
+COS + OH -> CO2 + SH
+COS + O -> CO + SO
+CS2 + OH -> SH + COS
+CS2 + O -> CS + SO
+CS + O2 -> COS + O
+CS + O3 -> COS + O2
+CS + O -> CO + S
+H2S + OH -> H2O + SH
+H2S + O -> OH + SH
+H2S + H -> H2 + SH
+H2S + HO2 -> H2O + HSO
+SH + O -> H + SO
+SH + O2 -> OH + SO
+SH + O3 -> HSO + O2
+SO + O3 -> SO2 + O2
+SO + O2 -> SO2 + O
+SO + OH -> SO2 + H
+SO + NO2 -> SO2 + NO
+S + O2 -> SO + O
+S + O3 -> O2 + SO
+S + OH -> H + SO
+SO2 + HO2 -> OH + SO3
+SO2 + O3 -> SO3 + O2
+HSO + O2 -> SO2 + OH
+HSO + O3 -> O2 + O2 + SH
+HSO2 + O2 -> HO2 + SO2
+HSO3 + O2 -> HO2 + SO3
+SO2 + O -> SO3
+SO2 + OH -> HSO3
+SO3 + H2O -> H2SO4
+H2SO4 -> SO2 + OH + OH
+O + O2 -> O3
+N2 -> N + N
+SO2 -> SO4
+CH3SCH3 + O -> SO2
+CH3SCH3 + OH -> SO2
+CH3SCH3 + OH -> SO2 + CH4O3S
+COS -> CO + S
+O3 -> O2 + O
+O2 -> O + O
+CS2 -> CS + S
+SO3 -> SO2 + O
+SO2 -> SO + O
+H2S -> SH + H
+SO -> S + O
+CO2 + SH -> COS + OH
+CO + SO -> COS + O
+SH + COS -> CS2 + OH
+CS + SO -> CS2 + O
+COS + O -> CS + O2
+COS + O2 -> CS + O3
+CO + S -> CS + O
+H2O + SH -> H2S + OH
+OH + SH -> H2S + O
+H2 + SH -> H2S + H
+H2O + HSO -> H2S + HO2
+H + SO -> SH + O
+OH + SO -> SH + O2
+HSO + O2 -> SH + O3
+SO2 + O2 -> SO + O3
+SO2 + O -> SO + O2
+SO2 + H -> SO + OH
+SO2 + NO -> SO + NO2
+SO + O -> S + O2
+O2 + SO -> S + O3
+H + SO -> S + OH
+OH + SO3 -> SO2 + HO2
+SO3 + O2 -> SO2 + O3
+SO2 + OH -> HSO + O2
+O2 + O2 + SH -> HSO + O3
+HO2 + SO2 -> HSO2 + O2
+HO2 + SO3 -> HSO3 + O2
+SO3 -> SO2 + O
+HSO3 -> SO2 + OH
+H2SO4 -> SO3 + H2O
+SO2 + OH + OH -> H2SO4
+O3 -> O + O2
+N + N -> N2
+SO4 -> SO2
+SO2 -> CH3SCH3 + O
+SO2 -> CH3SCH3 + OH
+SO2 + CH4O3S -> CH3SCH3 + OH
